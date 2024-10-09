@@ -1,5 +1,5 @@
 # News Web Scraper
-This Python project allows you to scrape the title and content of a news article from a given URL. It uses the ```requests``` library to fetch the webpage and ```BeautifulSoup``` from bs4 to parse the HTML content and extract the relevant information.
+This Python project allows you to scrape the title and content of a news article from a given URL. It uses the ```requests``` library to fetch the webpage and ```BeautifulSoup``` from ```bs4``` to parse the HTML content and extract the relevant information.
 
 ## Features
 - Fetches HTML content from news articles.
